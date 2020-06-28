@@ -1,4 +1,0 @@
-version control  GIT
-pull
-push
-clone
